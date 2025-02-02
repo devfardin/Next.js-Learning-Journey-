@@ -1,5 +1,4 @@
 "use client";
-
 import { useState } from "react";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
@@ -8,7 +7,7 @@ export default function DashboardLayout({ children }) {
   const [isSidebarOpen, setSidebarOpen] = useState(false);
 
   return (
-    <div className="flex h-screen bg-gray-100 gap-5">
+    <div className="flex h-screen bg-gray-100 gap-x-5">
       {/* Sidebar */}
       <aside
         className={`fixed inset-y-0 left-0 w-64 bg-white shadow-lg transform transition-transform ${
@@ -46,7 +45,7 @@ export default function DashboardLayout({ children }) {
       </aside>
 
       {/* Main Content */}
-      <div className="flex flex-col flex-1 ">
+      <div className="flex flex-col flex-1">
         {/* Header */}
         <header className="bg-white shadow p-4 flex justify-between items-center">
           <button

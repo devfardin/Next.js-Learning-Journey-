@@ -1,13 +1,15 @@
 import React from 'react'
+import { Header } from './components/Header'
+import { Footer } from './components/Footer'
 
 const MainLayout = ({children}) => {
   return (
     <div>
-        <header>Header Templete here</header>
+        <Header/>
       {
         children
       }
-      <footer>Footer Templete</footer>
+      <Footer/>
     </div>
   )
 }
