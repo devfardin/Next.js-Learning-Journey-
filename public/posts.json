@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "feature_image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "post_title": "Modern Web Development Techniques and Best Practices",
+      "post_description": "Explore the latest trends in web development, from responsive design to progressive enhancement and modern JavaScript frameworks.",
+      "post_category": "Technology"
+    },
+    {
+      "id": 2,
+      "feature_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "post_title": "Understanding Data Structures and Algorithms",
+      "post_description": "Deep dive into fundamental computer science concepts that every developer should know for writing efficient code.",
+      "post_category": "Programming"
+    },
+    {
+      "id": 3,
+      "feature_image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd",
+      "post_title": "The Future of Artificial Intelligence in Business",
+      "post_description": "Discover how AI is transforming various industries and what the future holds for businesses adopting AI technologies.",
+      "post_category": "AI"
+    },
+    {
+      "id": 4,
+      "feature_image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb",
+      "post_title": "Mobile App Development Trends 2024",
+      "post_description": "Stay ahead of the curve with these emerging trends in mobile application development and user experience design.",
+      "post_category": "Mobile"
+    },
+    {
+      "id": 5,
+      "feature_image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "post_title": "Cloud Computing Solutions for Startups",
+      "post_description": "Learn about cost-effective cloud solutions that can help your startup scale efficiently and securely.",
+      "post_category": "Cloud"
+    },
+    {
+      "id": 6,
+      "feature_image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+      "post_title": "Cybersecurity Best Practices",
+      "post_description": "Essential security measures and practices to protect your applications and user data from modern threats.",
+      "post_category": "Security"
+    },
+    {
+      "id": 7,
+      "feature_image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+      "post_title": "DevOps Integration Strategies",
+      "post_description": "Implement effective DevOps practices to streamline your development pipeline and improve team collaboration.",
+      "post_category": "DevOps"
+    },
+    {
+      "id": 8,
+      "feature_image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3",
+      "post_title": "UI/UX Design Principles",
+      "post_description": "Master the fundamental principles of user interface and experience design for creating engaging applications.",
+      "post_category": "Design"
+    }
+  ]
+  
